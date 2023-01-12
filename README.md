@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anthony Mosqueda</h1>
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm" width="100"/>
+</div>
 <h3 align="center">A passionate Data Analyst/Scientist from The United States</h3>
 
-[![Gevorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gevorian)](https://github.com/Gevorian)
+
 
 - 🔭 I’m currently working on Google Data Analytics Capstone Project **Google Data Analytics Capstone**
 
@@ -22,5 +25,17 @@
 <a href="https://www.leetcode.com/gevorian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gevorian" height="30" width="40" /></a>
 </p>
 
+
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src=https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white /> </p>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
