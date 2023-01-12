@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gevorian&label=Profile%20views&color=0e75b6&style=flat" alt="gevorian" /> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gevorian)](https://github.com/Gevorian/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gevorian)](https://github.com/Gevorian/github-readme)
 
 
 - 🔭 I’m currently working on Google Data Analytics Capstone Project **Google Data Analytics Capstone**
