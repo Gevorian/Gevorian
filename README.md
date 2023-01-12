@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony Mosqueda</h1>
 <h3 align="center">A passionate Data Analyst/Scientist from The United States</h3>
 
-/> </p>"https://komarev.com/ghpvc/?username=gevorian&label=Profile%20views&color=0e75b6&style=flat" alt="gevorian" /> </p>
-
 <p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=gevorian)](https://github.com/anuraghazra/github-readme-stats/> </p>
 
 
