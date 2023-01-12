@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Mosqueda</h1>
 <h3 align="center">A passionate Data Analyst/Scientist from The United States</h3>
 
-<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=gevorian)](https://github.com/anuraghazra/github-readme-stats/> </p>
-
+[![Gevorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gevorian)](https://github.com/Gevorian)
 
 - 🔭 I’m currently working on Google Data Analytics Capstone Project **Google Data Analytics Capstone**
 
