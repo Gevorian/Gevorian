@@ -26,4 +26,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left"> <img src=https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white /> </p>
