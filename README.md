@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Data Analytics **Google/IBM Data Analytics Certificate**
 
-- 👨‍💻 All of my projects are available at [Gevorian-Portfolio.github.io]([Gevorian-Portfolio.github.io](https://gevorian.github.io/Portfolio/))
+- 👨‍💻 All of my projects are available at [Gevorian-Portfolio.github.io](https://gevorian.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [https://medium.com/@anthonymosqueda42](https://medium.com/@anthonymosqueda42)
 
