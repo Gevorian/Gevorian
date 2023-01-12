@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony Mosqueda</h1>
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm" width="100"/>
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100"/>
 </div>
 <h3 align="center">A passionate Data Analyst/Scientist from The United States</h3>
 
