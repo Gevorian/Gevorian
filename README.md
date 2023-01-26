@@ -1,13 +1,6 @@
 ### Hi there 👋, my name is Anthony Mosqueda
-#### I am an aspiring Data Analyst
-![I am an aspiring Data Analyst](https://github.com/Gevorian/Gevorian/blob/main/5a.PNG)
-
-I'm Anthony, from the USA (Chicagoland), I love learning new technology, especially within the software/data fields and have a passion for learning every day! 
 
 Skills: Python / SQL / C# / R / Git / AWS / Linux
-
-- 🔭 I’m currently working on Google Data Analytics Capstone Projec 
-- 🌱 I’m currently learning Data Analytics/Cloud Solutions 
 - 📫 How to reach me: anthonymosqueda42@gmail.com 
 
 
